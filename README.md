@@ -20,7 +20,7 @@ A simple Arduino project that controls 3 LEDs using 3 push buttons. Great for be
 
 ![3Button3Led](images/3button3led.png)
 
-> Make sure the image is saved in a folder named `images` in your repository.
+
 
 ---
 
